@@ -1,35 +1,36 @@
-## Welcome to Designing Meaningful Interactions by Katherine Dillon
+## Collective Play by Mimi Yin
 
-You can view [Week 1 assignment](https://docs.google.com/presentation/d/1vgpuJA4gBx7ddJbG7qAa_ueDPiDff4OaIl3Gv5FYZaU/edit#slide=id.p) to get an overview of the issue we discussed in class. 
+Existentialism is the model (how you interact with other people) of collective play games we are going to make. 
 
-During the next six weeks we will study:
-
-1. What is UX
-2. Discover - a problem
-3. Define - ideation, applying it to a problem
-4. Design UX
-5. Design UI - visual layer on the top, color, typogoraphy, white space usage 
-6. Develop and Test - user testing
+Existentialism is: Individual Morality, Choices(in relation to other individuals), Chaos (purpose is unknowable/ Absurd paradoxical), Naval-gazing (obsessed with oneself). Inevitability of suffering and choice. Authenticity (Own reasons to be.
 
 
-### 5 characteristics of good UX:
+### Homework - Involve one other person to write about a absurd situation
+
+At the Dubai Rugby 7's tournament me and my fellow team players were done with the games and after a brief rest we became spectators in the stadium for the platinum cup finals. This was the time when customarily many teams at the tournament dressed up as mascots. A team from England dressed up as babies wearing giant diapers. Another team dressed up as Stoneage Fintstones and so on and so forth. We too were about to take off our game uniforms and get into our costumes but before that we decided to  join the crowd in our game outfits. While we were watching the game a host of funny and absurd events followed. A normal sevens match consists of two halves of seven minutes with a two-minute half-time break. The entire stadium was a 2 minute party every 7 minutes, a lot of people got drunk. Airl standing a couple of aisles in front of us was standing with her boyfriend, she looked back and suddenly started pointing towards our team. Her boyfriend was busy watching the game. I pointed towards my teammate and asked her whether with gestures whether she was pointing towards him, and she said with a head gesture no, and kept on pointing towards us for some odd reason.  As soon as the 7 minutes were over and music started, she left her boyfriend took strides up towards me and attempted to kiss me and said you have beautiful eyes. I was glad her boyfriend did not look at us. 
+
+This wasn't the only funny and absurd thing, one girl asked me to take my shirt off because it had her name on it, and she wanted to exchange it with mine.  The name of the sponsors matched her name.
+
+And when were walking down the stairs and a kid walked to me and handed over a rugby football and pen. And looked at me. I was very confused at to why he'd offer me a ball. So I gave him his pen back, and he refused to take it back, at this point my friend told me he wants your autograph. Momentarily i felt happy and found it absurd that I had a fan. So i signed the football and he was a happy kid.
+
+Link to p5 on glitch: https://glitch.com/~bsehgol-collectiveplay
+
+
+
+
+### During this course we will do this
 ```markdown
-Intuitive - without instructional manual
-Efficient - worth pepoles time,
-Memorable
-Anticipates errors
-Satisfying - so people want to come back
+Weeks 1-2: Conceptual groundwork, and Technical Foundation (Technologies: Command Line Interface CLI, Local Editor, Glitch.com (so its on the web), Websockets
+Week 3-4:  In class exercises: Design Pattern 1 (is basically chaos) Creative collisions, minimal rules . We are trying to create a tableau . 
+Week 5: playtests tableau
+Week 6: Partnering, Design Pattern 2
+Week 7: We’ll playtest that in week 7
+Week 8: Design Pattern 3, Queing (you go, then you go then you go)
+Week 9: Playtests that
+Week 10: Group Effort
+Week 11-12: Final Project - Classes end April 21. 
 ```
 
-#### A lot of ux designers call themselves product designers.
-#### Product shouldn’t come with a manual with instructions it should be intuitive. 
-#### Focus on the user and all else will follow 
-#### Desirable experience = good business 
-
-```markdown
-**Research and _ideation_***
-```
-[WHO Report](www.timesvr.com) and ![Infant Mortality Rate](https://images.unsplash.com/photo-1562887106-0ba63ac82e02?ixlib=rb-1.2.1&dpr=2&auto=format&fit=crop&w=416&h=312&q=60)
 
 
 
