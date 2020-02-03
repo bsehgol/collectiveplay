@@ -11,7 +11,7 @@ At the Dubai Rugby 7's tournament me and my fellow team players were done with t
 
 This wasn't the only awkward and absurd thing,soon afterwards another girl asked me to take my shirt off because it had her name on it, and she wanted to exchange it with hers.  The name of the sponsors matched her name. 
 
-And when were walking down the stairs and a kid walked to me and handed over a rugby football and pen. And looked at me. I was very confused at to why he'd offer me a ball. So I gave him his pen back, and he refused to take it back, at this point my friend told me he wants your autograph. Momentarily i felt happy and found it absurd that I had a fan. So i signed the football and he was a happy kid.
+Later a kid walked to me and handed over a rugby football and a pen. I was very confused at to why he'd offer me a ball with a pen. So I gave him his pen back but he refused to take it back, at this point my friend told me he wants my autograph. Momentarily I felt happy and found it slightly absurd that I had a fan. I signed the football and chuckled.
 
 Link to p5 on glitch: https://glitch.com/~bsehgol-collectiveplay
 
