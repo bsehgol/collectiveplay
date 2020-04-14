@@ -1,4 +1,4 @@
-# collectiveplay - Final
+# Collective Play - Final
 Playing with Web Sockets and Node.js
 
 ## Elections 2020
