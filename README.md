@@ -9,7 +9,7 @@ Your username is given to you privately on Zoom.
 
 Your username is “Trump or Biden or Pence or Bernie”. When prompted please enter this username here  https://heavy-nebula-town.glitch.me/ and answer up to 20 questions collectively. Don’t reveal your true identity and remain in character.
 
-You can win by giving your opinion, answering puzzles, and responding to questions. Take your party’s side so it can win. You may only type the response, don’t speak!
+You can win by giving your party's opinion, answering puzzles, and responding to questions. Take your party’s side so it can win. You may only type the response, don’t speak!
 
 Goal is to generate a dialogue anonymously to predict election results.
 
