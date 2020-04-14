@@ -1,7 +1,7 @@
 # Collective Play - Final
 Playing with Web Sockets and Node.js
 
-## Elections 2020 
+## Elections 2020 - 4 players.
 
 Generate a narrative by role playing.
 
