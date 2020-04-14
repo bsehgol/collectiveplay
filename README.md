@@ -11,6 +11,8 @@ Your username is “Trump or Biden or Pence or Bernie”. When prompted please e
 
 You can win by giving your party's opinion, answering puzzles, and responding to questions. Take your party’s side so it can win. You may only type the response, don’t speak!
 
+The other 4 members in the breakout room are jury who are going to vote you in in the end!
+
 Goal is to generate a dialogue anonymously to predict election results.
 
 ## How to try it out?
